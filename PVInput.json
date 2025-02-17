@@ -1,0 +1,40 @@
+{
+  "CustomerName": "Plastic Display",
+  "Address": "Skaryszewska 5, 83-110 Tczew",
+  "GEOdata": {
+    "lat": 54.087,
+    "lon": 18.748
+  },
+  "Installations": [
+    {
+      "ID": 1,
+      "PanelType": "RSM-6-305M",
+      "Elevation": 16,
+      "NumberOfPanels": 50,
+      "Direction": 128
+    },
+    {
+      "ID": 2,
+      "PanelType": "RSM-6-305M",
+      "Elevation": 16,
+      "NumberOfPanels": 50,
+      "Direction": 163
+    }
+  ],
+  "TimeRange": {
+    "Start": {
+      "SYear": 2023,
+      "SMonth": 1,
+      "SDay": 1,
+      "SHour": 0,
+      "SMinute": 0
+    },
+    "End": {
+      "EYear": 2023,
+      "EMonth": 12,
+      "EDay": 31,
+      "EHour": 23,
+      "EMinute": 59
+    }
+  }
+}
